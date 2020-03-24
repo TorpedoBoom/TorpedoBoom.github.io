@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>luolinjia.com</title>
+  <link href="http://luolinjia.com/cn/"/>
+  <link type="application/atom+xml" rel="self" href="http://luolinjia.com/cn/atom.xml"/>
+  <updated>2020-03-24T09:24:24+08:00</updated>
+  <id>http://luolinjia.com/cn/</id>
+  <author>
+    <name>Karl Luo</name>
+    <email>ideexto@gmail.com</email>
+  </author>
+
+
+ 
+  <entry>
+    <id>http://localhost:4000/info/about</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/info/about"/>
+    <title>关于</title>
+    <updated>1970-01-01T00:00:00+08:00</updated>
+    <author>
+      <name>Karl Luo</name>
+      <uri>http://luolinjia.com/cn/</uri>
+    </author>
+    <content type="html">&lt;p&gt;我是 Torpedo，， 一名中国人，&lt;strong&gt;我一直在致力于研究乱七八糟的程序，并且始终坚信利用这些代码，可以创造出华丽而又强大的高级程序&lt;/strong&gt;。我尝试用很多种方式去分析这些代码，并从中提炼出经验精髓，以方便了解这些基础代码的妙用。最终我制作了一些文章，上面详细记述了一些基础代码的特性和使用诀窍，并分类整理好存放在我的&lt;a href=&quot;http://www.torpedo.com/#blog&quot;&gt;Blog&lt;/a&gt;。更多的文章正在制作当中，如果你觉得这些文章不错的话，告诉其他的小伙伴，或者鼓励一下我。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;为了不浪费大家的时间，我发布在这个网站上的所有文章会&lt;strong&gt;保持原创，并尽量保证文章的质量&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;联系我&quot;&gt;联系我&lt;/h3&gt;
+
+&lt;p&gt;你可以通过以下几种方式联系到我。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://weibo.com/GcsSloop&quot;&gt;微博私信&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GcsSloop/AndroidNote/issues&quot;&gt;提交Issues&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:GcsSloop@gmail.com&quot;&gt;发邮件&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;发评论&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;我活动的平台&quot;&gt;我活动的平台&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;
+| &lt;a href=&quot;http://weibo.com/GcsSloop&quot;&gt;微博&lt;/a&gt;
+| &lt;a href=&quot;http://gold.xitu.io/#/user/56dd579a75c4cd4365aca918&quot;&gt;掘金&lt;/a&gt;
+| &lt;a href=&quot;https://github.com/GcsSloop&quot;&gt;GitHub&lt;/a&gt;
+| &lt;a href=&quot;http://www.jianshu.com/users/bc2fa21dbd1e/latest_articles&quot;&gt;简书&lt;/a&gt;
+| &lt;a href=&quot;https://www.zhihu.com/people/GcsSloop&quot;&gt;知乎&lt;/a&gt;
+| &lt;a href=&quot;http://blog.csdn.net/u013831257?viewmode=list&quot;&gt;CSDN&lt;/a&gt;
+| 
+&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+  </entry>
+ 
+
+</feed>
